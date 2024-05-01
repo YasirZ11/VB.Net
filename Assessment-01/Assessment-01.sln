@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Assessment-01", "Assessment-01\Assessment-01.vbproj", "{DAE620EA-9E6E-40A9-BD89-D8DBC399FB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE620EA-9E6E-40A9-BD89-D8DBC399FB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE620EA-9E6E-40A9-BD89-D8DBC399FB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE620EA-9E6E-40A9-BD89-D8DBC399FB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE620EA-9E6E-40A9-BD89-D8DBC399FB66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

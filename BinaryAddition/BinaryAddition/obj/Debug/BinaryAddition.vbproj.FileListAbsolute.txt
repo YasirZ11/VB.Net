@@ -1,0 +1,10 @@
+H:\Visual Folder\BinaryAddition\BinaryAddition\bin\Debug\BinaryAddition.exe.config
+H:\Visual Folder\BinaryAddition\BinaryAddition\bin\Debug\BinaryAddition.exe
+H:\Visual Folder\BinaryAddition\BinaryAddition\bin\Debug\BinaryAddition.pdb
+H:\Visual Folder\BinaryAddition\BinaryAddition\bin\Debug\BinaryAddition.xml
+H:\Visual Folder\BinaryAddition\BinaryAddition\obj\Debug\_BinaryAddition.Form1.resources
+H:\Visual Folder\BinaryAddition\BinaryAddition\obj\Debug\_BinaryAddition.Resources.resources
+H:\Visual Folder\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.vbproj.GenerateResource.Cache
+H:\Visual Folder\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.exe
+H:\Visual Folder\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.xml
+H:\Visual Folder\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.pdb
