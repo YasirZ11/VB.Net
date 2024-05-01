@@ -1,0 +1,11 @@
+C:\Users\Yaseer\AppData\Local\Temporary Projects\Sample Calculator\bin\Debug\Sample Calculator.exe.config
+H:\Visual Folder\Sample Calculator\Sample Calculator\bin\Debug\Sample Calculator.exe.config
+H:\Visual Folder\Sample Calculator\Sample Calculator\obj\Debug\Sample_Calculator.Form1.resources
+H:\Visual Folder\Sample Calculator\Sample Calculator\obj\Debug\Sample_Calculator.Resources.resources
+H:\Visual Folder\Sample Calculator\Sample Calculator\obj\Debug\Sample Calculator.vbproj.GenerateResource.Cache
+H:\Visual Folder\Sample Calculator\Sample Calculator\bin\Debug\Sample Calculator.exe
+H:\Visual Folder\Sample Calculator\Sample Calculator\bin\Debug\Sample Calculator.pdb
+H:\Visual Folder\Sample Calculator\Sample Calculator\bin\Debug\Sample Calculator.xml
+H:\Visual Folder\Sample Calculator\Sample Calculator\obj\Debug\Sample Calculator.exe
+H:\Visual Folder\Sample Calculator\Sample Calculator\obj\Debug\Sample Calculator.xml
+H:\Visual Folder\Sample Calculator\Sample Calculator\obj\Debug\Sample Calculator.pdb
