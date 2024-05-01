@@ -1,0 +1,14 @@
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\bin\Debug\If Clause1.exe.config
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\bin\Debug\If Clause1.exe
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\bin\Debug\If Clause1.pdb
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\bin\Debug\If Clause1.xml
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\obj\Debug\If_Clause1.Form1.resources
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\obj\Debug\If_Clause1.Resources.resources
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\obj\Debug\If Clause1.vbproj.GenerateResource.Cache
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\obj\Debug\If Clause1.exe
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\obj\Debug\If Clause1.xml
+C:\Users\Yaseer\AppData\Local\Temporary Projects\If Clause1\obj\Debug\If Clause1.pdb
+H:\Visual Folder\If Clause1\If Clause1\bin\Debug\If Clause1.exe.config
+H:\Visual Folder\If Clause1\If Clause1\obj\Debug\If Clause1.exe
+H:\Visual Folder\If Clause1\If Clause1\obj\Debug\If Clause1.xml
+H:\Visual Folder\If Clause1\If Clause1\obj\Debug\If Clause1.pdb
