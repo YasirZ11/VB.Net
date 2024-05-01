@@ -1,0 +1,11 @@
+C:\Users\Yaseer\AppData\Local\Temporary Projects\Input\bin\Debug\Input.exe.config
+H:\Visual Folder\Input\Input\bin\Debug\Input.exe.config
+H:\Visual Folder\Input\Input\bin\Debug\Input.exe
+H:\Visual Folder\Input\Input\bin\Debug\Input.pdb
+H:\Visual Folder\Input\Input\bin\Debug\Input.xml
+H:\Visual Folder\Input\Input\obj\Debug\Input.Form1.resources
+H:\Visual Folder\Input\Input\obj\Debug\Input.Resources.resources
+H:\Visual Folder\Input\Input\obj\Debug\Input.vbproj.GenerateResource.Cache
+H:\Visual Folder\Input\Input\obj\Debug\Input.exe
+H:\Visual Folder\Input\Input\obj\Debug\Input.xml
+H:\Visual Folder\Input\Input\obj\Debug\Input.pdb
