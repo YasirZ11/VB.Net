@@ -1,0 +1,11 @@
+C:\Users\Yaseer\AppData\Local\Temporary Projects\StreamStudy\bin\Debug\StreamStudy.exe.config
+H:\Visual Folder\StreamStudy\StreamStudy\bin\Debug\StreamStudy.exe.config
+H:\Visual Folder\StreamStudy\StreamStudy\bin\Debug\StreamStudy.exe
+H:\Visual Folder\StreamStudy\StreamStudy\bin\Debug\StreamStudy.pdb
+H:\Visual Folder\StreamStudy\StreamStudy\bin\Debug\StreamStudy.xml
+H:\Visual Folder\StreamStudy\StreamStudy\obj\Debug\StreamStudy.Form1.resources
+H:\Visual Folder\StreamStudy\StreamStudy\obj\Debug\StreamStudy.Resources.resources
+H:\Visual Folder\StreamStudy\StreamStudy\obj\Debug\StreamStudy.vbproj.GenerateResource.Cache
+H:\Visual Folder\StreamStudy\StreamStudy\obj\Debug\StreamStudy.exe
+H:\Visual Folder\StreamStudy\StreamStudy\obj\Debug\StreamStudy.xml
+H:\Visual Folder\StreamStudy\StreamStudy\obj\Debug\StreamStudy.pdb
